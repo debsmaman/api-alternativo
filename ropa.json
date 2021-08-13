@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Sweater",
+        "description": "Varios colores: gris, negro, beige y blanco",
+        "cost": 1500,
+        "currency": "UYU",
+        "imgSrc": "img/sweater1.jpg",
+        "size": S, M, L, XL
+    },
+    {
+        "name": "Remera",
+        "description": "De manga corta",
+        "cost": 800,
+        "currency": "UYU",
+        "imgSrc": "img/remera2.jpg",
+        "size": S, M, L, XL
+    },
+    {
+        "name": "Pantalón",
+        "description": "Skinny jean negro",
+        "cost": 2000,
+        "currency": "UYU",
+        "imgSrc": "img/jean3.jpg",
+        "size": S, M, L, XL
+    },
+    {
+        "name": "Short",
+        "description": "Tiro alto y color azul",
+        "cost": 1200,
+        "currency": "UYU",
+        "imgSrc": "img/short4.jpg",
+        "size": S, M, L, XL
+    },
+    {
+        "name": "Falda",
+        "description": "Con botones y color verde militar",
+        "cost": 1400,
+        "currency": "UYU",
+        "imgSrc": "img/falda4.jpg",
+        "size": S, M, L, XL
+    }
+]

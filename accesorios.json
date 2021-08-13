@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Cartera",
+        "description": "Eco cuero",
+        "cost": 2490,
+        "currency": "UYU",
+        "imgSrc": "img/cart1.jpg",
+    },
+    {
+        "name": "Billetera",
+        "description": "Muchas reparticiones",
+        "cost": 1690,
+        "currency": "UYU",
+        "imgSrc": "img/bill2.jpg",
+    },
+    {
+        "name": "Bufanda",
+        "description": "A cuadros o rayas",
+        "cost": 790,
+        "currency": "UYU",
+        "imgSrc": "img/buf.jpg",
+    },
+    {
+        "name": "Collar",
+        "description": "Con perlas",
+        "cost": 1090,
+        "currency": "UYU",
+        "imgSrc": "img/collar.jpg",
+    },
+    {
+        "name": "Anillo",
+        "description": "Con forma de ola",
+        "cost": 1290,
+        "currency": "UYU",
+        "imgSrc": "img/anillo.jpg",
+    },
+    {
+        "name": "Caravanas",
+        "description": "Distintas formas",
+        "cost": 890,
+        "currency": "UYU",
+        "imgSrc": "img/caravanas.jpg",
+    }
+]
